@@ -1,1 +1,1 @@
-# EELaserHeatTest
+# PyDC Educational Project
